@@ -1,4 +1,0 @@
-pyTelegramBotAPI
-psutil
-requests
-urllib3
