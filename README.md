@@ -1,2 +1,0 @@
-# zxyn-bot
-Zxyn Hosting 
